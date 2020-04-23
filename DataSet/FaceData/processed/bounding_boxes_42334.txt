@@ -1,0 +1,12 @@
+Dataset/FaceData/processed\mon\5.png 327 335 524 580
+Dataset/FaceData/processed\mon\2.png 730 571 1063 979
+Dataset/FaceData/processed\mon\6.png 337 892 669 1352
+Dataset/FaceData/processed\mon\3.png 466 627 745 975
+Dataset/FaceData/processed\mon\1.png 631 466 968 897
+Dataset/FaceData/processed\mon\4.png 263 307 626 792
+Dataset/FaceData/processed\sam\5.png 539 836 736 1076
+Dataset/FaceData/processed\sam\4.png 935 543 1088 728
+Dataset/FaceData/processed\sam\1.png 595 870 744 1050
+Dataset/FaceData/processed\sam\2.png 318 381 966 1225
+Dataset/FaceData/processed\sam\6.png 785 264 1100 659
+Dataset/FaceData/processed\sam\3.png 674 354 913 646
